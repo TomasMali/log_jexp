@@ -1,5 +1,1 @@
-{
-    "table": [
-      
-    ]
-}
+{"table":[{"Utente":"WRKJEXP","Password":"SMIIT00VIO00017A","Timestamp":"1596384525836","Codice_Accisa":"IT00VIO00017A","Id_Locale":"009","Fornitura":"FORNITURA","Data":"20200828","Punto_Di_Vista":"S","Progressivo":"1"},{"Utente":"WRKJEXP","Password":"SMIIT00VIO00017A","Timestamp":"1596384693396","ARC":"","Codice_Accisa":"IT00VIO00017A","Id_Locale":"005Z"},{"Utente":"WRKJEXP","Password":"SMIIT00VIO00017A","Timestamp":"1596384732706","ARC":"","Codice_Accisa":"IT00VIO00017A","Id_Locale":"004Q"},{"Utente":"WRKJEXP","Password":"SMIIT00VIO00017A","Timestamp":"1596384867461","ARC":"20ITVIO00017A00009534","Codice_Accisa":"IT00VIO00017A","Id_Locale":"003T"}]}
